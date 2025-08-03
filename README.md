@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-Welcome to my github profile!
+Welcome to my github profile!  
 I'm Linus Sjarif, Undergraduate computer science student, currently living in **Indonesia** ❤️
 
 ![frieren](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHByOHh3aTk4MjFyZjBmemFvc21iaHFuZTk5aXloZHRmZHExZ2sxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dKBES1ypGwZdyFQBQ7/giphy.gif)
 
-🔭 I'm currently study at Binus university
-
+🔭 I'm currently study at Binus university  
 🌱 I'm currently learning javascript and laravel framework
