@@ -1,5 +1,6 @@
 ## Hei👋, Nice to see you 😊
 
+![Linus Sjarif](img/github-header-banner.png)
 <!--
 **RUSIANNNNN/RUSIANNNNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
