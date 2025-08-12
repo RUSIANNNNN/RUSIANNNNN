@@ -1,6 +1,6 @@
 ## Hei👋, Nice to see you 😊
 
-#### Welcome to my github profile!
+#### Welcome to my github profile! 
 ![Linus Sjarif](img/github-header-banner.png)
 <!--
 **RUSIANNNNN/RUSIANNNNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,8 +46,7 @@ currently living at **Indonesia**
 [![](https://visitcount.itsvg.in/api?id=RUSIANNNNN&icon=6&color=0)](https://visitcount.itsvg.in)
 
 
+
 ![frieren](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHByOHh3aTk4MjFyZjBmemFvc21iaHFuZTk5aXloZHRmZHExZ2sxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dKBES1ypGwZdyFQBQ7/giphy.gif)
 
 ### Have a nice day 🥰 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
